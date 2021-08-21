@@ -1,3 +1,8 @@
+# Note
+
+This is forked from DJ's [original perspective mod repo](https://github.com/DJtheRedstoner/PerspectiveModv4), since for some reason he
+pushed a commit that deleted everything in the repo.
+
 # Perspective Mod v4
 
 A remake of [Perspective Mod v3 by canelex](https://github.com/Canelex/PerspectiveMod) with bug fixes and additional functionality
@@ -5,6 +10,7 @@ A remake of [Perspective Mod v3 by canelex](https://github.com/Canelex/Perspecti
 [![Discord Link](https://img.shields.io/discord/767833575185580062?color=blueviolet&label=discord)](https://discord.gg/k8fnyEr)
 
 Features:
+
 - Mouse button support
 - Nametags face camera
 - Config GUI
